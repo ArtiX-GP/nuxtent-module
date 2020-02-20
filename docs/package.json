@@ -83,7 +83,7 @@
     "ts-loader": "5.4.3",
     "ts-node": "^8.1.0",
     "typescript": "3.4.5",
-    "uglify-js": "3.5.7",
+    "uglify-js": "3.8.0",
     "url-loader": "1.1.2",
     "vue-loader": "15.7.0",
     "vue-server-renderer": "^2.6.10",
